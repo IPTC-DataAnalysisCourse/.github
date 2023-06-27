@@ -3,6 +3,7 @@
 Welcome to the GitHub repository for the Hands-on Data Analysis for Metabolic Profiling course at Imperial College London. Here you will finds links to the tutorials as well as local tutorial files and Jupyter notebooks in their respective repositories.
 
 ## Tutorials
+For tutorials on Google Colab, please save a copy of the notebook into your Google Drive account so you can edit and save your changes. 
 
 ### Tuesday
 - NMR pre-processing
