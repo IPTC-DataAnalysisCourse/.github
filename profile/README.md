@@ -7,7 +7,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 ### Tuesday
 - NMR pre-processing
-- LC-MS pre-processing
+- [LC-MS pre-processing tutorial](https://drive.google.com/file/d/1HlKoFEGQXOmlDWnrZT7R6IsbYM7Z5Zs-/view?usp=sharing)
 
 ### Wednesay 
 - PCA
