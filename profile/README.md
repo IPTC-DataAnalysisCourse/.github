@@ -17,7 +17,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 OPLS and PLS-DA
 
 ### Friday 
-[Pathway analysis tutorial](https://colab.research.google.com/drive/185cqMV0xkxc_hzmRGms0FiAplbAgdkfR?usp=sharing)
+[Pathway analysis tutorial](https://colab.research.google.com/drive/1zNKTOhMt5hc3_ldWLZrTaTfI6WqLdHlH?usp=sharing)
 
 
 ## Tutorial leads
