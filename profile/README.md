@@ -11,7 +11,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 ### Wednesay 
 - PCA
-- Univariate analysis
+- [Univariate analysis](https://drive.google.com/file/d/1wmVaIEwVM8Sh4PmCjn3e1Yw3tF7m6HCK/view?usp=sharing)
 
 ### Thursday 
 OPLS and PLS-DA
