@@ -10,7 +10,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [LC-MS pre-processing tutorial](https://drive.google.com/file/d/1HlKoFEGQXOmlDWnrZT7R6IsbYM7Z5Zs-/view?usp=sharing)
 
 ### Wednesay 
-- PCA
+- [PCA](https://colab.research.google.com/drive/1WlojLqsJBtDJP52NAR-byfeSju0_-5gS?usp=sharing)
 - [Univariate analysis](https://drive.google.com/file/d/1wmVaIEwVM8Sh4PmCjn3e1Yw3tF7m6HCK/view?usp=sharing)
 
 ### Thursday 
