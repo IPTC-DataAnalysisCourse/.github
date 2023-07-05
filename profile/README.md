@@ -10,19 +10,19 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [LC-MS pre-processing tutorial](https://drive.google.com/file/d/1HlKoFEGQXOmlDWnrZT7R6IsbYM7Z5Zs-/view?usp=sharing)
 
 ### Wednesday 
-- [Scaling and data pre-treatment]()
+- [Scaling and data pre-treatment](https://colab.research.google.com/drive/1w1kdQIahCKP-l3frLAXyHX6w63LcDIZr)
 - [PCA](https://colab.research.google.com/drive/1WlojLqsJBtDJP52NAR-byfeSju0_-5gS?usp=sharing)
-- [Univariate analysis](https://colab.research.google.com/drive/1wmVaIEwVM8Sh4PmCjn3e1Yw3tF7m6HCK#scrollTo=U7wuv_7WfQLk)
+- [Univariate analysis](https://colab.research.google.com/drive/1qzQuBSbGTMDm4PC2Q2-dCV7nhCx9Lble)
   
 ### Thursday 
-- [PLS-DA and OPLS]()
+- [PLS-DA and OPLS](https://colab.research.google.com/drive/1ioNfhdnZ1p8o_MYQ_5exp5mjxWg62bZX)
 
 ### Friday 
 [Pathway analysis tutorial](https://colab.research.google.com/drive/1zNKTOhMt5hc3_ldWLZrTaTfI6WqLdHlH?usp=sharing)
 
 
 ## Tutorial leads
-- Goncalo Correia
+- Gonçalo Correia
 - Caroline Sands
 - Pantelis Takis
 - Cecilia Wieder (cw2019@ic.ac.uk)
