@@ -9,12 +9,13 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [NMR pre-processing](https://drive.google.com/file/d/17-KrX_06AEz8UwDiX0W3WcAkga6A2-U0/view?usp=sharing)
 - [LC-MS pre-processing tutorial](https://drive.google.com/file/d/1HlKoFEGQXOmlDWnrZT7R6IsbYM7Z5Zs-/view?usp=sharing)
 
-### Wednesay 
+### Wednesday 
+- [Scaling and data pre-treatment]()
 - [PCA](https://colab.research.google.com/drive/1WlojLqsJBtDJP52NAR-byfeSju0_-5gS?usp=sharing)
 - [Univariate analysis](https://drive.google.com/file/d/1wmVaIEwVM8Sh4PmCjn3e1Yw3tF7m6HCK/view?usp=sharing)
 
 ### Thursday 
-OPLS and PLS-DA
+- [PLS-DA and OPLS]()
 
 ### Friday 
 [Pathway analysis tutorial](https://colab.research.google.com/drive/1zNKTOhMt5hc3_ldWLZrTaTfI6WqLdHlH?usp=sharing)
