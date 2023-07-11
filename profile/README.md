@@ -11,7 +11,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 ### Wednesday 
 - [Scaling and data pre-treatment](https://colab.research.google.com/drive/1w1kdQIahCKP-l3frLAXyHX6w63LcDIZr)
-- [PCA](https://colab.research.google.com/drive/1WlojLqsJBtDJP52NAR-byfeSju0_-5gS?usp=sharing)
+- [PCA](https://colab.research.google.com/drive/1rDrHEZ3pEiv7FthsjfHEkrPhWc4RWbR3)
 - [Univariate analysis](https://colab.research.google.com/drive/1qzQuBSbGTMDm4PC2Q2-dCV7nhCx9Lble)
   
 ### Thursday 
