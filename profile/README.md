@@ -22,7 +22,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 
 ## Tutorial leads
-- Gonçalo Correia
 - Caroline Sands
-- Pantelis Takis
+- Humma Hussain
+- Lukas Kopecky
 - Cecilia Wieder (cw2019@ic.ac.uk)
