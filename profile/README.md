@@ -15,10 +15,10 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [Univariate analysis](https://colab.research.google.com/drive/1qzQuBSbGTMDm4PC2Q2-dCV7nhCx9Lble)
   
 ### Thursday 
-- [PLS-DA and OPLS](https://colab.research.google.com/drive/1R6szR42n9tuazJfBW0K49OF2UMGKLsN7?usp=sharing)
+- [PLS-DA and OPLS](https://colab.research.google.com/drive/1R6szR42n9tuazJfBW0K49OF2UMGKLsN7?usp=sharing){target="_blank"}
 
 ### Friday 
-[Pathway analysis tutorial](https://colab.research.google.com/drive/1zNKTOhMt5hc3_ldWLZrTaTfI6WqLdHlH?usp=sharing target="_blank")
+[Pathway analysis tutorial](https://colab.research.google.com/drive/1zNKTOhMt5hc3_ldWLZrTaTfI6WqLdHlH?usp=sharing)
 
 
 ## Tutorial leads
