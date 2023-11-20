@@ -15,7 +15,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [Univariate analysis](https://colab.research.google.com/drive/1qzQuBSbGTMDm4PC2Q2-dCV7nhCx9Lble)
   
 ### Thursday 
-- [PLS-DA and OPLS](https://colab.research.google.com/drive/1ioNfhdnZ1p8o_MYQ_5exp5mjxWg62bZX)
+- [PLS-DA and OPLS](https://drive.google.com/file/d/1R6szR42n9tuazJfBW0K49OF2UMGKLsN7/view?usp=sharing)
 
 ### Friday 
 [Pathway analysis tutorial](https://colab.research.google.com/drive/1zNKTOhMt5hc3_ldWLZrTaTfI6WqLdHlH?usp=sharing)
@@ -24,5 +24,5 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 ## Tutorial leads
 - Caroline Sands
 - Humma Hussain
-- Lukas Kopecky
+- Lukas Kopecky [l.kopecky22@imperial.ac.uk](mailto:l.kopecky22@imperial.ac.uk?subject=[GitHub]IPTC-DataAnalysisCourse)
 - Cecilia Wieder (cw2019@ic.ac.uk)
