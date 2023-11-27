@@ -15,7 +15,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [Univariate analysis](https://colab.research.google.com/drive/1qzQuBSbGTMDm4PC2Q2-dCV7nhCx9Lble)
   
 ### Thursday 
-- [PLS-DA and OPLS](https://colab.research.google.com/drive/1R6szR42n9tuazJfBW0K49OF2UMGKLsN7?usp=sharing)
+- PLS-DA and OPLS: [LC-MS version](https://colab.research.google.com/drive/1QwaLEiJyIhcTLAWYCwxjGwY3B7SvENIK?usp=sharing), [NMR version](https://colab.research.google.com/drive/1ioNfhdnZ1p8o_MYQ_5exp5mjxWg62bZX)
 
 ### Friday 
 [Pathway analysis tutorial](https://colab.research.google.com/drive/1zNKTOhMt5hc3_ldWLZrTaTfI6WqLdHlH?usp=sharing)
