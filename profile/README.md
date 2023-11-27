@@ -10,9 +10,9 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [LC-MS pre-processing tutorial](https://drive.google.com/file/d/1HlKoFEGQXOmlDWnrZT7R6IsbYM7Z5Zs-/view?usp=sharing)
 
 ### Wednesday 
-- [Scaling and data pre-treatment](https://colab.research.google.com/drive/1w1kdQIahCKP-l3frLAXyHX6w63LcDIZr)
-- [PCA](https://colab.research.google.com/drive/1rDrHEZ3pEiv7FthsjfHEkrPhWc4RWbR3)
-- [Univariate analysis](https://colab.research.google.com/drive/1qzQuBSbGTMDm4PC2Q2-dCV7nhCx9Lble)
+- Scaling and data pre-treatment: LC-MS version, [NMR version](https://colab.research.google.com/drive/1w1kdQIahCKP-l3frLAXyHX6w63LcDIZr)
+- PCA: LC-MS verson, [NMR version](https://colab.research.google.com/drive/1rDrHEZ3pEiv7FthsjfHEkrPhWc4RWbR3)
+- Univariate analysis: [NMR version](https://colab.research.google.com/drive/1qzQuBSbGTMDm4PC2Q2-dCV7nhCx9Lble)
   
 ### Thursday 
 - PLS-DA and OPLS: [LC-MS version](https://colab.research.google.com/drive/1QwaLEiJyIhcTLAWYCwxjGwY3B7SvENIK?usp=sharing), [NMR version](https://colab.research.google.com/drive/1ioNfhdnZ1p8o_MYQ_5exp5mjxWg62bZX)
