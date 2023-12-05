@@ -13,7 +13,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 ### Wednesday 
 - **Scaling and data pre-treatment**: ([LC-MS](https://colab.research.google.com/drive/1cQWpjuHC7fm224kuKiP8Itbg7NxLTpPs), [NMR](https://colab.research.google.com/drive/1YcBiYSBhdM6cNlEc59Kjl4weVp4wr6wq#scrollTo=HDMYzoF_PeJG))
 - **PCA**: ([LC-MS](https://colab.research.google.com/drive/1VtGC8i5_9roONZ1B6kbnBUv721BmYTj3#scrollTo=b57aOsrtV97K), [NMR](https://colab.research.google.com/drive/14R8hv5DTfrmsrM3Rz0I81PbWVaq8yljw#scrollTo=jdqTBLfNC2jb))
-- **Univariate analysis**: ([LC-MS](https://colab.research.google.com/drive/1JOJawpbpT8KYKbi-yxV-IJaIlHbTk81B), [NMR](https://colab.research.google.com/drive/1KRkkMDafW_pZVO2v5QL5tNLIg6nuoq_N#scrollTo=DXkX2_iASMMx))
+- **Univariate analysis**: ([LC-MS](https://colab.research.google.com/drive/1JOJawpbpT8KYKbi-yxV-IJaIlHbTk81B), [NMR](https://colab.research.google.com/drive/1_MC5I2XZKxtuvqLsHXexixE4ABMV4xNz#scrollTo=SspL8LqHSMMy))
   
 ### Thursday 
 - **PLS-DA and OPLS**: ([LC-MS](https://colab.research.google.com/drive/1QwaLEiJyIhcTLAWYCwxjGwY3B7SvENIK), [NMR](https://colab.research.google.com/drive/1VgLWRLwHGKLyygbZ-9IXuPwiSJelwZqD))
