@@ -19,7 +19,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - **PLS-DA and OPLS**: ([LC-MS](https://colab.research.google.com/drive/1_ML9uDXerrPwinEq0CufRGTKnhSkqlEc), [NMR](https://colab.research.google.com/drive/1VgLWRLwHGKLyygbZ-9IXuPwiSJelwZqD))
 
 ### Friday 
-- [Pathway analysis tutorial](https://colab.research.google.com/drive/1D7l29pXRk_61sJRRwnSPVI5eDsnwaOVf)
+- [Pathway analysis tutorial](https://colab.research.google.com/drive/122HaqtYyzMFofAGDdRVHom3vfUNtzObx?usp=sharing)
 
 
 ## Tutorial leads
