@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the Hands-on Data Analysis for Metabolic Pr
 For tutorials on Google Colab, please save a copy of the notebook into your Google Drive account so you can edit and save your changes. 
 
 ### Tuesday
-- [NMR pre-processing](https://colab.research.google.com/drive/1E9nv4bVBdIfvsvrAaxKWr8xP047j4upd)
+- [NMR pre-processing](https://colab.research.google.com/drive/1H4CHSSaGxCABrzdt1TmrCF0mcxSCWbIB#scrollTo=vJIBOyEIMeOw)
 - [LC-MS pre-processing tutorial](https://colab.research.google.com/drive/1zBhcdVCqjwxUJQk1cNbKsFC0YCHtYtzO)
 
 
@@ -24,6 +24,6 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 ## Tutorial leads
 - Caroline Sands
-- Humma Hussain
+- Humma Hussain (h.hussain@imperial.ac.uk)
 - Lukas Kopecky ([l.kopecky22@imperial.ac.uk](mailto:l.kopecky22@imperial.ac.uk?subject=[GitHub]%20IPTC%20Data%20Analysis%20Course))
 - Cecilia Wieder (cw2019@ic.ac.uk)
