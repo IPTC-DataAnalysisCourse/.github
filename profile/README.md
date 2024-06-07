@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the Hands-on Data Analysis for Metabolic Pr
 For tutorials on Google Colab, please save a copy of the notebook into your Google Drive account so you can edit and save your changes. 
 
 ### Tuesday
-- [NMR pre-processing](https://colab.research.google.com/drive/13OVIV1D5lO2AIespIGtnEiPAqh6d3Tbv)
+- [NMR pre-processing](https://colab.research.google.com/drive/13OVIV1D5lO2AIespIGtnEiPAqh6d3Tbv?usp=sharing)
 - [LC-MS pre-processing tutorial](https://colab.research.google.com/drive/1g-sBfQbYQ1CgrrLfYN00kIypTbjlvUzE#scrollTo=mVg1duz4bRdI)
 
 
