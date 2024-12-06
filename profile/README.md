@@ -11,7 +11,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 
 ### Wednesday 
-- **Scaling and data pre-treatment**: ([LC-MS](https://drive.google.com/file/d/1qgfcOPBBsTSxtXRzHw8ZnOm3ai0SQK1f), [NMR](https://colab.research.google.com/drive/1YcBiYSBhdM6cNlEc59Kjl4weVp4wr6wq#scrollTo=HDMYzoF_PeJG))
+- **Scaling and data pre-treatment**: ([LC-MS](https://colab.research.google.com/drive/1qgfcOPBBsTSxtXRzHw8ZnOm3ai0SQK1f), [NMR](https://colab.research.google.com/drive/1YcBiYSBhdM6cNlEc59Kjl4weVp4wr6wq#scrollTo=HDMYzoF_PeJG))
 - **PCA**: ([LC-MS](https://colab.research.google.com/drive/1Ax9hqIgtepLLLeLXuAMCJUWeGo0H9l8d), [NMR](https://colab.research.google.com/drive/1b5VfXCL9P-ym9LegtQnufqNeT0VfDZz5?usp=sharing))
 - **Univariate analysis**: ([LC-MS](https://colab.research.google.com/drive/1VhmxE9i9RV0piQ9hKeQkV3e-xxYXQ0uk?usp=sharing), [NMR](https://colab.research.google.com/drive/16YP8jgd0K7WSI7DIZrDmHAqRVJMEWjFa?usp=sharing))
   
