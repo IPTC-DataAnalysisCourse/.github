@@ -7,7 +7,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 ### Tuesday
 - [NMR pre-processing](https://colab.research.google.com/drive/1bs-Tk5qdstkogBmzzfnv0ZL2OpnzU2TY?usp=sharing)
-- [LC-MS pre-processing tutorial](https://colab.research.google.com/drive/1g-sBfQbYQ1CgrrLfYN00kIypTbjlvUzE?usp=sharing)
+- [LC-MS pre-processing tutorial](https://drive.google.com/file/d/1GDADWepBEoKBkEARlsyp6dhvNaqWu-ho/view?usp=sharing)
 
 
 ### Wednesday 
