@@ -10,12 +10,12 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 - [LC-MS pre-processing tutorial](https://drive.google.com/file/d/1GDADWepBEoKBkEARlsyp6dhvNaqWu-ho/view?usp=sharing)
 
 ### Wednesday 
-- **Scaling and data pre-treatment**: ([LC-MS](https://colab.research.google.com/drive/1qgfcOPBBsTSxtXRzHw8ZnOm3ai0SQK1f), [NMR](https://colab.research.google.com/drive/1YcBiYSBhdM6cNlEc59Kjl4weVp4wr6wq#scrollTo=HDMYzoF_PeJG))
-- **PCA**: ([LC-MS](https://colab.research.google.com/drive/1SJWei26FEknZ5SK9S-QXMkt3_rj-Pief?authuser=2#scrollTo=Rm4p-4aJeUzD), [NMR](https://colab.research.google.com/drive/1b5VfXCL9P-ym9LegtQnufqNeT0VfDZz5?usp=sharing))
+- **Scaling and data pre-treatment**: ([LC-MS](https://colab.research.google.com/drive/1NqvzB9-BTvy330cYg6asDefDJJspLk3z), [NMR](https://colab.research.google.com/drive/1YcBiYSBhdM6cNlEc59Kjl4weVp4wr6wq#scrollTo=HDMYzoF_PeJG))
+- **PCA**: ([LC-MS](https://colab.research.google.com/drive/1SJWei26FEknZ5SK9S-QXMkt3), [NMR](https://colab.research.google.com/drive/1b5VfXCL9P-ym9LegtQnufqNeT0VfDZz5?usp=sharing))
 - **Univariate analysis**: ([LC-MS](https://colab.research.google.com/drive/1VhmxE9i9RV0piQ9hKeQkV3e-xxYXQ0uk?usp=sharing), [NMR](https://colab.research.google.com/drive/16YP8jgd0K7WSI7DIZrDmHAqRVJMEWjFa?usp=sharing))
   
 ### Thursday 
-- **PLS-DA and OPLS**: ([LC-MS](https://colab.research.google.com/drive/15SDmiZsnsIdDXR7yJW9Jp70PGMp_iGie?authuser=1&pli=1#scrollTo=yPc2mwp1DsML), [NMR](https://colab.research.google.com/drive/1VgLWRLwHGKLyygbZ-9IXuPwiSJelwZqD))
+- **PLS-DA and OPLS**: ([LC-MS](https://colab.research.google.com/drive/15SDmiZsnsIdDXR7yJW9Jp70PGMp), [NMR](https://colab.research.google.com/drive/1VgLWRLwHGKLyygbZ-9IXuPwiSJelwZqD))
 
 
 ### Friday 
