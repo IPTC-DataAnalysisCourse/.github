@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for the [Hands-on Data Analysis for Metabolic Profiling](https://www.imperial.ac.uk/continuing-professional-development/short-courses/medicine/biomedical/hands-on-data-analysis/) course provided by [Imperial International Phenome Training Centre](https://www.imperial.ac.uk/imperial-international-phenome-training-centre/) (IIPTC). Here you will finds links to the tutorials as well as local tutorial files and Jupyter notebooks in their respective repositories.
 
-While this course does not involve writing any code, the tutorials are set in Python. It is recommended to have at least a basic knowledge of Python or another programming language prior to taking this course. Prior to taking this course, we recommend working through the first three episodes (Python Fundamentals, Analysing Patient Data, Visualising Tabular Data) from [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/), a free course by [Software Carpentry](https://software-carpentry.org/lessons/index.html).
+While this course does not involve writing any code, the tutorials are set in Python and a basic knowledge of Python or another programming language is recommended. Prior to taking this course, we encourage working through the first three episodes (Python Fundamentals, Analysing Patient Data, Visualising Tabular Data) from [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/), a free course by [Software Carpentry](https://software-carpentry.org/lessons/index.html).
 
 ## Tutorials
 For tutorials on Google Colab, please save a copy of the notebook into your Google Drive account so you can edit and save your changes. 
