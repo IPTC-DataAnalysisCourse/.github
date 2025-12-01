@@ -9,7 +9,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 ### Tuesday
 - **[NMR pre-processing](https://colab.research.google.com/drive/1bs-Tk5qdstkogBmzzfnv0ZL2OpnzU2TY?usp=sharing)**
-- **[LC-MS pre-processing](https://drive.google.com/file/d/1GDADWepBEoKBkEARlsyp6dhvNaqWu-ho/view?usp=sharing)**
+- **[LC-MS pre-processing](https://colab.research.google.com/drive/14hDPLxmJ_NmFzPswxBvwMmtMGlLxy0a3?usp=sharing)**
 
 ### Wednesday
 - **Data Scaling and Normalisation**: ([LC-MS](https://colab.research.google.com/drive/1gtRuLEo5BxAD9s0t_V8XQUcjcgN_gZA-), [NMR](https://colab.research.google.com/drive/1YcBiYSBhdM6cNlEc59Kjl4weVp4wr6wq#scrollTo=HDMYzoF_PeJG))
