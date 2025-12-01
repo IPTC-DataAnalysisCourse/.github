@@ -25,7 +25,7 @@ For tutorials on Google Colab, please save a copy of the notebook into your Goog
 
 
 ## Tutorial leads
-- Caroline Sands
+- Caroline Sands (caroline.sands@imperial.ac.uk)
 - Humma Hussain (h.hussain@imperial.ac.uk)
 - Lukas Kopecky ([l.kopecky22@imperial.ac.uk](mailto:l.kopecky22@imperial.ac.uk?subject=[GitHub]%20IPTC%20Data%20Analysis%20Course))
 - Cecilia Wieder (cw2019@ic.ac.uk)
